@@ -1,4 +1,4 @@
 # Axo-xD.github.io
 
-#buildsettings
+# buildsettings
 theme: minima
